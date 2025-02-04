@@ -1,0 +1,101 @@
+Item ID,Item Description,Weight (kg),Profit ($)
+1,Gold Bars,10,600
+2,Silver Bars,15,300
+3,Diamonds,20,200
+4,Leather Bags,25,400
+5,Laptops,35,800
+6,Smartphones,1,600
+7,55" TV,80,1200
+8,Blenders,12,150
+9,Vacuums,15,200
+10,Camping Tents,30,300
+11,Fishing Rods,8,100
+12,Digital Cameras,20,400
+13,Art Supplies,18,150
+14,Books,15,80
+15,Tools Set,40,250
+16,Sporting Goods,35,300
+17,Medical Kits,20,400
+18,Furniture Items,75,800
+19,Kitchen Appliances,50,700
+20,Toys,10,60
+21,Camping Gear,25,220
+22,Pet Supplies,20,70
+23,Exercise Equipment,60,300
+24,Drones,1,600
+25,Outdoor Grills,45,400
+26,Patio Furniture,80,600
+27,Portable Chargers,2,30
+28,Ice Cream Makers,15,80
+29,Pressure Cookers,20,120
+30,Electric Kettles,15,40
+31,Solar Panels,50,500
+32,Hammocks,10,100
+33,Yoga Mats,5,30
+34,Jump Ropes,1,15
+35,Camping Stoves,12,90
+36,Portable Toilets,25,150
+37,First Aid Kits,6,25
+38,Emergency Blankets,1,10
+39,LED Lights,5,20
+40,Flashlights,1,15
+41,Cooking Utensils,2,50
+42,Fishing Tackle Boxes,5,40
+43,Coolers,12,70
+44,Sandwich Makers,5,60
+45,Skis,15,250
+46,Snowboards,20,300
+47,Backpacks,3,50
+48,Picnic Baskets,6,40
+49,Beach Umbrellas,5,30
+50,Sunglasses,13,20
+51,Sunscreens,3,10
+52,Insect Repellents,0.5,15
+53,Camping Lanterns,1,25
+54,Coolers,12,70
+55,Tents,35,200
+56,Folding Chairs,8,50
+57,Lawn Mowers,70,500
+58,Leaf Blowers,15,200
+59,Weed Eaters,10,150
+60,Portable Grills,20,300
+61,Fire Pits,40,600
+62,Garden Tools,15,100
+63,Tool Boxes,8,60
+64,Climbing Gear,10,150
+65,Bicycle Locks,1,25
+66,Skateboards,5,80
+67,Rollerblades,5,50
+68,Scooters,10,150
+69,Golf Clubs,5,250
+70,Tennis Rackets,1,80
+71,Baseball Bats,1,50
+72,Football Gear,15,100
+73,Camping Cookware,10,70
+74,Hiking Boots,2,120
+75,Personal Care Kits,2,40
+76,Pet Carriers,5,60
+77,Dog Beds,15,80
+78,Cat Trees,25,100
+79,Water Bottles,1,20
+80,Travel Bags,5,50
+81,Travel Organizers,3,30
+82,Reusable Straws,0.5,10
+83,Cooking Pots,15,150
+84,Baking Sheets,5,25
+85,Cutting Boards,5,30
+86,Cookbooks,1,20
+87,Baking Tools,2,40
+88,Food Storage Containers,5,50
+89,Spice Racks,5,30
+90,Knives Set,2,80
+91,Coffee Makers,5,100
+92,Tea Sets,3,50
+93,Microwave Ovens,30,300
+94,Toasters,5,40
+95,Electric Grills,20,150
+96,Blenders,5,80
+97,Food Processors,10,200
+98,Air Fryers,10,120
+99,Rice Cookers,10,70
+100,Juicers,5,90
